@@ -1,0 +1,6 @@
+{
+  "name": "thiago henrique corretor",
+  "description": "Corretor de imóveis focado em compra, venda e parcerias transparentes. Sua comissão é nosso sucesso. Atendimento direto pelo WhatsApp (62) 8477-3452.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
